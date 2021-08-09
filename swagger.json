@@ -13,10 +13,10 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host": "localhost:4000",
+  "host": "nodejs-abb-clone.herokuapp.com",
   "basePath": "/backend",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/posts/": {
